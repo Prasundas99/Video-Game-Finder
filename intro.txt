@@ -1,0 +1,5 @@
+1. Install Angualr CLi
+npm install -g @angular/cli
+
+2.Create new app
+ng new my-app
